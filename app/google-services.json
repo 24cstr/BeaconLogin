@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071213831858",
+    "firebase_url": "https://beaconlogin-24.firebaseio.com",
+    "project_id": "beaconlogin-24",
+    "storage_bucket": "beaconlogin-24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071213831858:android:84a55e42d3700ff7",
+        "android_client_info": {
+          "package_name": "com.example.beaconlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071213831858-l6k88aagbddchfk3qorf9disau0pni5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqUp5IdyXAqg7_Zy6yfzh5cIxRZcFhh_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071213831858-l6k88aagbddchfk3qorf9disau0pni5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
